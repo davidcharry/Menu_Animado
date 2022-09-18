@@ -17,6 +17,7 @@ a[data-toggle="collapse"] {
 }
 h3 {
   text-align: center;
+  color: #34495e;
 }
 .dropdown-toggle::after {
   display: block;
